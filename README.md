@@ -9,6 +9,6 @@ https://www.youtube.com/watch?v=TvIX6opm5aE&list=PLpqZMRm7S2NVD6-dq5SHM16VQMzPnk
 
 https://en.wikipedia.org/wiki/Al-Kindi#Cryptography
 
-# About Ibn al-Durayhim
+# About Ibn Al-Durayhim:
 
 https://en.wikipedia.org/wiki/Ibn_al-Durayhim
