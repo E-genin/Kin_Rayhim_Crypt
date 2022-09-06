@@ -1,5 +1,8 @@
 # Kin_Rayhim_Crypt
 
+This is a C-based application that performs text Encryption/Decryption taks using some basic symmetric/asymmetric encryption algorithms: 
+- Symmetric: Cezar, Mono-Alphabetic, Vigenere
+- Asymmetric : RSA
 
 # Demo:
 
